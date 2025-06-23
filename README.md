@@ -13,7 +13,9 @@ Example:
 Choose an operation:
 1. Addition (+)
 2. Subtraction (-)
-...
+3. Multiplication (*
+4. Division / (with division-by-zero handling)
+
 Enter your choice (1-5): 1
 How many numbers? 3
 Enter number 1: 10
